@@ -1,0 +1,17 @@
+{
+  "Patelco Credit Union": {
+    "domain": "patelco.org",
+    "url": "https://www.patelco.org/",
+    "tfa": [
+      "sms",
+      "call",
+      "email"
+    ],
+    "regions": [
+      "us"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}
